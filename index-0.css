@@ -1,0 +1,135 @@
+.header
+{
+    background-color: black;
+    height: 70px;
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.gateways
+{
+    font-size:large;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color:rgb(110, 118, 126);
+
+}
+.signin
+{
+    font-size:larger;
+    padding-left: 100px;
+    color:rgb(110, 118, 126);
+}
+
+#signup
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+a
+{
+    text-decoration: none;
+}
+nav.navl a:hover {
+    color: azure;
+    font-size: xx-large;
+}
+#Navl
+{
+    float:right;
+    padding-top: 50px;
+}
+.logo
+{
+    height: 40px;
+    width: 40px;
+    padding:30px;
+    float:left;
+}
+.navl
+{
+    /*display:block;*/
+}
+.logo_div
+{
+    padding-bottom: 30px;
+    float:left;
+}
+.content
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: none;
+    display:flexbox;
+}
+.body
+{
+    background-color: rgb(0, 0, 0);
+}
+.side_image
+{
+    float:right;
+    width: 40%;
+}
+.description
+{
+    width:98%;
+    padding-left: 2%;
+}
+
+h2.head3
+{
+    font-size: larger;
+    font-style: monospace;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main
+{
+    font-weight: none;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main_h1
+{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.signup_division
+{
+    align-items: center;
+}
+#learn_more
+{
+    padding-top: 1%;
+    padding-bottom: 30px;
+}
+#more
+{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 120px;
+    height: 80px;
+    border: 2px solid white;
+    padding: 5px;
+    color:white;
+}
+#more1
+{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 120px;
+    height: 80px;
+    border: 2px solid white;
+    padding: 10px;
+    color:white;
+}
+#learn_more1
+{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+#learn_more2
+{
+    padding-left: 5%;
+}
