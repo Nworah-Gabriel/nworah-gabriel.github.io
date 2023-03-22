@@ -264,6 +264,9 @@
         border: 1px solid #132B7E;
         width: 180px;
     }
+    .icons{
+        margin-bottom: 15px;
+    }
     #create-account-2{
         color: #132B7E;
     }
