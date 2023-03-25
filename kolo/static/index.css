@@ -205,7 +205,7 @@
     }
     #section3_image1{
         border: 1px solid #132B7E;
-        padding: 40px;
+        padding: 15px;
         border-radius: 510px;
         width: 90%;
     }
@@ -240,8 +240,9 @@
         padding-right: 20px;
     }
     #section3_image2{
-        padding: 30px;
+        padding: 10px;
         margin-top: 50px;
+        border: 1px solid #132B7E;
         border-radius: 510px;
         width: 90%;
     }
@@ -448,7 +449,7 @@
     }
     #section3_image1{
         border: 1px solid #132B7E;
-        padding: 30px;
+        padding: 15px;
         border-radius: 510px;
         width: 90%;
     }
@@ -516,8 +517,9 @@
         /* justify-content: center; */
     }
     #section3_image2{
-        padding: 30px;
-        margin-top: 20px;
+        padding: 15px;
+        margin-top: 40px;
+        border: 1px solid #132B7E;
         border-radius: 510px;
         width: 90%;
     }
