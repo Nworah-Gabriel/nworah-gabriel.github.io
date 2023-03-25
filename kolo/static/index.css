@@ -220,8 +220,7 @@
         display: grid;
         grid-template-columns: 65% 35%;
         grid-template-rows: 100%;
-        margin-top: 20px;
-        border: 1px solid black;
+        margin-top: 60px;
     }
     #section4_grand_child4{
         display: grid;
@@ -239,6 +238,12 @@
         border-radius: 6px;
         padding-left: 30px;
         padding-right: 20px;
+    }
+    #section3_image2{
+        padding: 30px;
+        margin-top: 50px;
+        border-radius: 510px;
+        width: 90%;
     }
 }
 
@@ -511,9 +516,8 @@
         /* justify-content: center; */
     }
     #section3_image2{
-        border: 1px solid #132B7E;
         padding: 30px;
-        margin-top: 50px;
+        margin-top: 20px;
         border-radius: 510px;
         width: 90%;
     }
