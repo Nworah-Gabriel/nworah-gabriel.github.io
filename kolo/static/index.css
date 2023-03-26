@@ -730,8 +730,10 @@
     justify-content: center;
     align-items: center;
     font-size: 12px;
-    border: 1px solid rgb(222, 222, 222);
+    border-top: 1px solid rgb(222, 222, 222);
+    border-bottom: 1px solid rgb(222, 222, 222);
     margin: auto;
     height: 50px;
     padding-top: 20px;
+    width: 100%;
 }
