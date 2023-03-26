@@ -246,6 +246,47 @@
         border-radius: 510px;
         width: 90%;
     }
+    #section5{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 50px;
+        margin-top: 100px;
+    }
+    #section5_child{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        width: 90%;
+        align-items: center;
+    }
+    .section5_grand_child{
+        margin-top: 40px;
+        background-color: white;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+       padding: 20px;
+       border-radius: 5px;
+       box-shadow:20px 70px 100px 0px #f7f9ff;
+    }
+    #section5_grand{
+        box-shadow:-50px -5px 100px 10px #f7f9ff;
+    }
+    #section5_grand2{
+        box-shadow:0px 0px 100px 10px #f7f9ff;
+    }
+    .section5_grand_grand{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-top: 20px;
+    }
+    .profile_name{
+        margin-top: 15px;
+        margin-left: 18px;
+    }
 }
 
 @media (max-width: 920px) {
@@ -522,5 +563,46 @@
         border: 1px solid #132B7E;
         border-radius: 510px;
         width: 90%;
+    }
+    #section5{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        margin-bottom: 50px;
+        margin-top: 100px;
+    }
+    #section5_child{
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+        align-items: center;
+    }
+    .section5_grand_child{
+        margin-top: 40px;
+        background-color: white;
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+       padding: 20px;
+       border-radius: 5px;
+       box-shadow:0px 0px 100px 10px #f7f9ff;
+    }
+    #section5_grand2{
+        box-shadow:0px 0px 100px 10px #f7f9ff;
+    }
+    .section5_grand_grand{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-top: 20px;
+    }
+    .profile_name{
+        margin-top: 15px;
+        margin-left: 18px;
+    }
+    #section5_p{
+        width: 90%;
+        padding-top: 5px;
     }
 }
